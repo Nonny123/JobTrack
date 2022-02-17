@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sddD2bVeybBSAhy8QtEULWvGUb5dlegdd8WfnkWQahMUcnayorU5VJouHRfNB6y8F6pMDxPxb2w5iTkeks4Flw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NONSO\\source\\repos\\JobTrack\\JobTrack-API\\JobTrack-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NONSO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NONSO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NONSO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\NONSO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\NONSO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\NONSO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
